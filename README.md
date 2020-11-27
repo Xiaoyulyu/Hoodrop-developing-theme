@@ -1,3 +1,3 @@
-# Hoodrop.vim
+# Hoodrop-developing-theme
 
-A vim colorscheme without background color.
+Vim and terminal themes
