@@ -1,0 +1,20 @@
+video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -7777;
+    width:100%;
+    filter: blur(1px);
+
+}
+
+.logo { 
+  width: auto;
+  height: auto;
+  float:left;
+  padding:22.5px 0px 0px 10px;
+}
+
+.scrollimg{
+    filter:opacity(40%);
+}
