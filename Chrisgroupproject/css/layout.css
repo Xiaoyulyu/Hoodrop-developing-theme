@@ -1,0 +1,40 @@
+
+.bg-video{
+width:100%;
+height:100%;
+left:0px;
+top:0px;
+bottom:0px;
+z-index: -7777;
+position:fixed;
+}
+
+.v1{
+    left:0px;
+top:0px;
+width: auto;
+height: auto;
+}
+
+
+
+
+.logo { 
+  width: auto;
+  height: auto;
+  float:left;
+  padding:22.5px 0px 0px 10px;
+    filter:opacity(90%);
+}
+.scrollmouse { 
+  width: 40;
+  height: 50;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 650px;
+}
+
+.scrollimg{
+    filter:opacity(40%);
+}
