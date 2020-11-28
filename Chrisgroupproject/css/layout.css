@@ -14,6 +14,14 @@ video{
   float:left;
   padding:22.5px 0px 0px 10px;
 }
+.scrollmouse { 
+  width: 40;
+  height: 50;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 650px;
+}
 
 .scrollimg{
     filter:opacity(40%);
